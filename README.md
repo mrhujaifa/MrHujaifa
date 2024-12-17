@@ -1,4 +1,4 @@
-<img src="https://indoanalytica.com/static/images/bannerr.gif" alt="HeaderImage" width="100%" />
+<img src="https://github.com/MrHujaifa/MrHujaifa/blob/main/bannerr.gif?raw=true" alt="HeaderImage" width="100%" />
 <h1 align="center">Hi 👋, I'm Mr. Hujaifa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/Q6hLcCV/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif"/>

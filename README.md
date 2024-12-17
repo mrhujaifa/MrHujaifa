@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mr. Hujaifa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://ibb.co.com/jLqm5WY"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/MrHujaifa/MrHujaifa/blob/main/image.gif?raw=true"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhujaifa&label=Profile%20views&color=0e75b6&style=flat" alt="mrhujaifa" /> </p>
 

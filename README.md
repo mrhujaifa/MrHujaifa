@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="HeaderImage" width="100%" />
 <h1 align="center">Hi 👋, I'm Mr. Hujaifa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src=""/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhujaifa&label=Profile%20views&color=0e75b6&style=flat" alt="mrhujaifa" /> </p>
 

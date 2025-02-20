@@ -1,11 +1,11 @@
-<img src="https://github.com/MrHujaifa/MrHujaifa/blob/main/bannerr.gif?raw=true" alt="HeaderImage" width="100%" />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="HeaderImage" width="100%" />
 <h1 align="center">Hi 👋, I'm Mr. Hujaifa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/Q6hLcCV/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif"/>
+<img align="right" alt="Coding" width="400" src=""/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhujaifa&label=Profile%20views&color=0e75b6&style=flat" alt="mrhujaifa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/crypto__working" target="blank"><img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" /></a> </p>
+<p align="left"> <a href="https://twitter.com/crypto__working" target="blank"><img src="" /></a> </p>
 
 - 🌱 I’m currently learning **React, Firebase, Node JS ,Express JS ,MongoDB**
 

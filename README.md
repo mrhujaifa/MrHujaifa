@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhujaifa&label=Profile%20views&color=0e75b6&style=flat" alt="mrhujaifa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/crypto__working" target="blank"><img src="https://img.shields.io/twitter/follow/crypto__working?logo=twitter&style=for-the-badge" alt="crypto__working" /></a> </p>
+<p align="left"> <a href="https://twitter.com/crypto__working" target="blank"><img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" /></a> </p>
 
 - 🌱 I’m currently learning **React, Firebase, Node JS ,Express JS ,MongoDB**
 

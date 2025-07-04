@@ -87,6 +87,16 @@
       width="42"
       height="42"
   /></a>
+  <a
+    target="_blank"
+    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+    style="display: inline-block"
+    ><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="nodejs"
+      width="42"
+      height="42"
+  /></a>
 </p>
 <h2>⚡️☕  Connect with me!</h2>
 <p>

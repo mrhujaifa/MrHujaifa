@@ -1,16 +1,26 @@
-<h1>Hi 😊👋, I'm Md. Hujaifa Islam shanto</h1> 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Md. Hujaifa Islam Shanto - Frontend Developer Banner" width="100%" />
+</p>
 
-<img align="right" alt="Coding" width="350" height="200" src="https://streamable.com/86f6y4"/>
+
+<!-- 👨‍💻 Name & Designation -->
+<h1 align="center">Md. Hujaifa Islam Shanto</h1>
+<p align="center"><b>Frontend / MERN Stack Developer</b></p>
 
 <p>A passionate frontend developer from Bangladesh</p>
 <p>- ♥️ I enjoy programming and sharing knowledge</p>
 <p>- 📫 How to reach me <b>mdhujaifaislamshanto@gmail.com</b></p>
 <p>- 💻 Most used line of code: <code>console.log("hello world")</code></p>
 
+<h2>👨‍💻 About Me</h2>
+<p>
+ I’m a passionate, self-taught developer from Bangladesh dedicated to building modern, high-quality web applications using the MERN stack. With a strong focus on frontend development, I create responsive and user-friendly interfaces that offer seamless user experiences. I’m continuously expanding my skills by exploring new technologies and best practices. Besides coding, I love contributing to open-source projects and sharing knowledge with the developer community to grow together.
+</p>
+
 <h2>🚀 Languages and Tools:</h2>
 
 <p>
-  <!-- Frontend -->
+  <h3>Frontend:</h3>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block; margin-right:8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
   </a>
@@ -30,7 +40,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="42" height="42" />
   </a>
 
-  <!-- Backend -->
+ <h3>Backend:</h3>
   <a target="_blank" href="https://nodejs.org/" style="display: inline-block; margin-right:8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" />
   </a>
@@ -41,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
   </a>
 
-  <!-- Tools & Platforms -->
+  <h3>Tools & Platforms:</h3>
   <a target="_blank" href="https://firebase.google.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="42" height="42" />
   </a>
@@ -52,24 +62,11 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
   </a>
 </p>
-
+<br/>
 <h2>⚡️☕ Connect with me!</h2>
 
-<p>
-  <a target="_blank" href="https://x.com/Crypto__Working" style="display: inline-block; margin-right:8px;">
-    <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="X (Twitter)" />
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/mrhujaifa" style="display: inline-block; margin-right:8px;">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" />
-  </a>
-  <a target="_blank" href="https://www.facebook.com/mrhujaifa0" style="display: inline-block; margin-right:8px;">
-    <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="Facebook" />
-  </a>
-  <a target="_blank" href="https://medium.com/@mr_hujaifa" style="display: inline-block; margin-right:8px;">
-    <img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="Medium" />
-  </a>
-</p>
 
+<br/>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrhujaifa&show_icons=true&locale=en&layout=compact" alt="mrhujaifa" />
 </p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="Md. Hujaifa Islam Shanto - Frontend Developer Banner" width="100%" />
+  <img src="https://i.ibb.co.com/dJskXCT4/MERN-STACK.png" alt="Md. Hujaifa Islam Shanto - Frontend Developer Banner" width="100%" />
 </p>
 
 

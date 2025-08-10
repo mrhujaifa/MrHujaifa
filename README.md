@@ -52,18 +52,12 @@
   <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://jwt.io/" style="display: inline-block; margin-right:8px;">
-  <img src="https://i.ibb.co.com/TqPTFKbz/jwt.png" alt="JWT" width="42" height="42" />
-</a>
+  
 
 
-<a target="_blank" href="https://stripe.com/" style="display: inline-block; margin-right:8px;">
-  <img src="https://img.icons8.com/color/48/stripe.png" alt="Stripe" width="42" height="42" />
-</a>
 
-<a target="_blank" href="https://code.visualstudio.com/" style="display: inline-block; margin-right:8px;">
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="42" height="42" />
-</a>
+
+
 
   <a target="_blank" href="https://firebase.google.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="42" height="42" />
@@ -71,11 +65,10 @@
   <a target="_blank" href="https://git-scm.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://www.figma.com/" style="display: inline-block; margin-right:8px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
-  </a>
+  
   
 </p>
+
 <br/>
 <h2>⚡️☕ Connect with me!</h2>
 <p align="">

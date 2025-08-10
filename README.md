@@ -22,7 +22,6 @@
 <h2>🚀 Languages and Tools:</h2>
 
 <p>
-  <h3>Frontend:</h3>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block; margin-right:8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
   </a>
@@ -32,6 +31,9 @@
   <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42" />
   </a>
+  <a target="_blank" href="https://mui.com/material-ui/" style="display: inline-block; margin-right:8px;">
+    <img src="https://i.ibb.co.com/fYBk3cV9/mui.png" alt="material" width="42" height="42" />
+  </a>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block; margin-right:8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
   </a>
@@ -39,21 +41,30 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" />
   </a>
   <a target="_blank" href="https://nextjs.org/" style="display: inline-block; margin-right:8px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="42" height="42" />
+    <img src="https://img.icons8.com/fluency/48/nextjs.png" alt="Next.js" width="42" height="42" />
   </a>
-
- <h3>Backend:</h3>
   <a target="_blank" href="https://nodejs.org/" style="display: inline-block; margin-right:8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" />
   </a>
   <a target="_blank" href="https://expressjs.com/" style="display: inline-block; margin-right:8px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="42" height="42" />
+    <img src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js" width="42" height="42" />
   </a>
   <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42" />
   </a>
+  <a target="_blank" href="https://jwt.io/" style="display: inline-block; margin-right:8px;">
+  <img src="https://i.ibb.co.com/TqPTFKbz/jwt.png" alt="JWT" width="42" height="42" />
+</a>
 
-  <h3>Tools & Platforms:</h3>
+
+<a target="_blank" href="https://stripe.com/" style="display: inline-block; margin-right:8px;">
+  <img src="https://img.icons8.com/color/48/stripe.png" alt="Stripe" width="42" height="42" />
+</a>
+
+<a target="_blank" href="https://code.visualstudio.com/" style="display: inline-block; margin-right:8px;">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="42" height="42" />
+</a>
+
   <a target="_blank" href="https://firebase.google.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="42" height="42" />
   </a>
@@ -63,6 +74,7 @@
   <a target="_blank" href="https://www.figma.com/" style="display: inline-block; margin-right:8px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
   </a>
+  
 </p>
 <br/>
 <h2>⚡️☕ Connect with me!</h2>

@@ -66,6 +66,20 @@
 </p>
 <br/>
 <h2>⚡️☕ Connect with me!</h2>
+<p align="">
+  <a href="https://linkedin.com/in/mrhujaifa" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" style="border: 2px solid #00E0FF; border-radius: 50%; padding: 5px;"/>
+  </a>
+  <a href="https://mrhujaifa.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="50" style="border: 2px solid #00E0FF; border-radius: 50%; padding: 5px;"/>
+  </a>
+  <a href="mailto:mdhujaifaislamshanto@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" style="border: 2px solid #00E0FF; border-radius: 50%; padding: 5px;"/>
+  </a>
+  <a href="https://x.com/Hujaifa__Islam" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/twitter.png" width="50" style="border: 2px solid #00E0FF; border-radius: 50%; padding: 5px;"/>
+  </a>
+</p>
 
 
 <br/>

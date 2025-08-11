@@ -109,7 +109,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhujaifa&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
-<br/>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrhujaifa&show_icons=true&locale=en&layout=compact" alt="mrhujaifa" />
-</p>

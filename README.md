@@ -95,9 +95,7 @@
   <img src="https://streak-stats.demolab.com?user=mrhujaifa&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
     <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhujaifa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
-  <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mrhujaifa&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+ 
 
 
   <img src="https://github-profile-trophy.vercel.app/?username=mrhujaifa&theme=radical&row=1&column=7" alt="GitHub Trophies" />

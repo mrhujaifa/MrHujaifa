@@ -97,11 +97,9 @@
 </p>
   <!-- Streak -->
 </p>
-  <p align="center">
+  <p align="">
   <img src="https://streak-stats.demolab.com?user=mrhujaifa&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
-
-
 
 
 
